@@ -1,0 +1,17 @@
+country,channel,creative,new_budget,reason,old_spend,CPI,D7_Retention_%,D30_ROAS_%,budget_change,budget_change_%
+US,TikTok,B_Squad,15000,Top-performing campaign; prioritize scaling,3791.3,1.24,19.14,122.76,11208.7,295.6426555535041
+US,Google_YouTube,B_Squad,10000,High retention and payer quality,2951.05,1.92,23.08,103.21,7048.95,238.86243879297194
+US,TikTok,E_ShortMatch,8000,D30 ROAS above 100%; continue scaling,3226.46,1.18,17.93,101.91,4773.54,147.9497653775345
+US,Meta,A_Gunplay,8000,D30 ROAS above 100%; stable acquisition,3727.53,1.29,16.79,100.8,4272.469999999999,114.6193323729118
+US,TikTok,C_Dynamic,7000,Strong quality; continue optimization,3404.72,1.36,18.23,94.56,3595.28,105.59693601823352
+US,Meta,B_Squad,7000,Strong retention; continue testing,3637.06,1.95,20.41,92.38,3362.94,92.4631433080565
+US,TikTok,A_Gunplay,5000,Efficient acquisition but weaker downstream quality,3324.36,1.09,14.95,95.25,1675.6399999999999,50.404889963782495
+US,Google_YouTube,C_Dynamic,5000,High-quality users but acquisition cost needs optimization,3120.32,1.94,21.48,91.94,1879.6799999999998,60.23997538713978
+US,Meta,E_ShortMatch,3000,Maintain and monitor,3672.62,1.61,19.24,91.68,-672.6199999999999,-18.314445817971908
+US,Testing_Reserve,New_Squad_Variants,2000,Test new squad-focused creative variants,0.0,,,,2000.0,
+Brazil,TikTok,D_Creator,10000,Best Brazil campaign; strong CTR and low CPI,2560.24,0.31,13.61,94.72,7439.76,290.5883823391557
+Brazil,Meta,B_Squad,5000,Strong user quality and relatively high ROAS,2090.22,0.51,17.02,87.92,2909.78,139.20926983762476
+Brazil,Google_YouTube,D_Creator,4000,Continue testing creator format across channels,2821.36,0.43,16.12,87.71,1178.6399999999999,41.77559758414381
+Brazil,Meta,D_Creator,3000,Maintain creator-led acquisition,2596.2,0.36,14.87,85.01,403.8000000000002,15.553501271088521
+Brazil,TikTok,B_Squad,3000,Continue squad-message testing,2141.81,0.45,16.09,84.81,858.19,40.068446780993646
+Brazil,Testing_Reserve,Local_Creator_Variants,5000,Test new Brazilian creator and localized variants,0.0,,,,5000.0,

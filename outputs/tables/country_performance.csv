@@ -1,0 +1,3 @@
+country,spend,impressions,clicks,installs,d1_retained,d7_retained,payers_d30,revenue_d7,revenue_d30,CTR_%,CVR_%,CPI,D1_Retention_%,D7_Retention_%,Payer_Rate_%,CAC,D7_ROAS_%,D30_ROAS_%
+Brazil,35228.51,7989030,221940,76560,26833,11842,1508,6747.39,26883.02,2.78,34.5,0.46,35.05,15.47,1.97,23.36,19.15,76.31
+US,50456.38,3882889,100674,32844,12717,6026,1218,12414.11,46796.74,2.59,32.62,1.54,38.72,18.35,3.71,41.43,24.6,92.75
